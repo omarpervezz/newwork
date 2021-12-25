@@ -1304,8 +1304,39 @@ nav .logo_link {
         margin-top: 0;
     }
     #search_engine .test_section {
-        margin-top: -16px;
+        margin-top: -4.3rem;
         padding: 7rem 0;
+    }
+    #search_engine .searchBtn {
+        height: 2.2rem;
+    }
+    #search_engine .fa-search {
+        transform: rotateY( 181deg) translate(1px, -1px);
+    }
+    #search_engine .cydogbrowser_intensifies_img {
+        width: 6rem;
+    }
+    .text-typing p {
+        font-size: 1rem !important;
+    }
+    #search_engine .default_search .new_img {
+        width: 2rem;
+    }
+    #search_engine .default_search a {
+        font-size: .7rem;
+        line-height: 1;
+    }
+    .default_search {
+        margin-top: -2rem;
+    }
+    #search_engine .test_section .question_img {
+        width: 2rem;
+    }
+    #search_engine .inter_net_working .inter-working_info {
+        font-size: .8rem;
+    }
+    #search_engine .test_section .tested_img {
+        width: 3rem;
     }
 }
 
