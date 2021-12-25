@@ -1244,6 +1244,12 @@ nav .logo_link {
 }
 
 @media screen and (max-width: 576px) {
+    #search_engine .cydogbrowser_intensifies_img {
+        width: 11rem;
+    }
+    #search_engine .test_section {
+        margin-top: 2rem !important;
+    }
     #search_engine .searchInt {
         font-size: 1.2rem;
     }
@@ -1291,6 +1297,9 @@ nav .logo_link {
 }
 
 @media screen and (max-width: 320px) {
+    #search_engine {
+        padding-bottom: 8rem !important;
+    }
     #search_engine .searchInt {
         font-size: 0.8rem;
     }
@@ -1304,7 +1313,7 @@ nav .logo_link {
         margin-top: 0;
     }
     #search_engine .test_section {
-        margin-top: -4.3rem;
+        margin-top: -4.3rem !important;
         padding: 7rem 0;
     }
     #search_engine .searchBtn {
